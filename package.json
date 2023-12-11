@@ -1,0 +1,11 @@
+{
+  "name": "issue-vitest-toHaveProperty",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:pixelastic/issue-vitest-toHaveProperty.git",
+  "author": "Tim Carry <tim@pixelastic.com>",
+  "license": "MIT",
+  "dependencies": {
+    "vitest": "1.0.4"
+  }
+}
